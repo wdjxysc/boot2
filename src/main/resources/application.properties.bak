@@ -1,0 +1,7 @@
+server.port=9090
+
+
+logging.path=./logs
+logging.file=myLog.log
+
+webapp.name=PerfectWorld
